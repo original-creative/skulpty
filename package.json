@@ -14,8 +14,8 @@
     "webpack": "^1.13.1"
   },
   "devDependencies": {
-    "skulpt": "git+https://github.com/codecombat/skulpt.git",
     "chai": "^3.5.0",
-    "mocha": "^3.0.2"
+    "mocha": "^3.0.2",
+    "skulpt": "^0.11.0"
   }
 }
