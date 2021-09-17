@@ -4,6 +4,8 @@ var Sk = require('../lib/skulpt.js');
 var transform = require('./transform.js');
 var improveError = require('./errors.js');
 
+Sk.python3 = true;
+
 var defaultOptions = {
 	locations: true,
 	ranges: true,
