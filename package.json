@@ -4,18 +4,17 @@
   "description": "",
   "main": "build/skulpty.js",
   "scripts": {
-    "postinstall": "webpack",
+    "build": "webpack",
     "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "escodegen": "^1.8.0",
-    "webpack": "^1.13.1"
+    "escodegen": "^1.8.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2",
-    "skulpt": "^0.11.0"
+    "webpack": "^1.13.1"
   }
 }

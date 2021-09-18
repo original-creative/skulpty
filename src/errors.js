@@ -1,5 +1,6 @@
 'use strict';
 
+// var Sk = require('skulpt');
 var Sk = require('../lib/skulpt.js');
 
 function splat(e) {

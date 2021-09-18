@@ -1,8 +1,9 @@
 'use strict';
 
-var Sk = require('../lib/skulpt.js');
-var transform = require('./transform.js');
-var improveError = require('./errors.js');
+// const Sk = require('skulpt');
+const Sk = require('../lib/skulpt.js');
+const transform = require('./transform.js');
+const improveError = require('./errors.js');
 
 Sk.python3 = true;
 
